@@ -30,4 +30,7 @@ percentage, which is average number of bases per at bat.
 
 ## Tools Used
 
+Some tools that I used in this project were Excel and Python. I used Excel to compile hitting stats, exported them to a text file,
+and read the text file into Python where I coded the statistics to the output of my player rankings.
+
 ## Files Used
