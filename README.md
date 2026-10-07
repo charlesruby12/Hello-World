@@ -34,3 +34,26 @@ Some tools that I used in this project were Excel and Python. I used Excel to co
 and read the text file into Python where I coded the statistics to the output of my player rankings.
 
 ## Files Used
+
+- Screenshot 2026-10-7 144852.png
+- qgofpeunax8fbak4cfnf.jpg
+- The first file contains batting stats from qualified Brewers players from the 2026 regular season, and the second file is an image
+  of the team celebrating after their walkoff win on October 4, 2026 against the Padres.
+- URL: https://www.mlb.com/brewers/stats/at-bats/regular-season
+- URL: https://img.mlbstatic.com/mlb-images/image/upload/ar_16:9,g_auto,q_auto:good,w_1024,c_fill,f_jpg/mlb/qgofpeunax8fbak4cfnf
+
+## How to Run Program 
+
+First, the text file with player stats needs to be read in. Then, a a loop needs to be created where it retrieves each individual 
+player's OPS, and sorts them from highest to lowest. Finally, the output needs to be printed. 
+
+Hello_World/
+└── 
+    │── README.md
+    │── brewers_hitting_stats_2026.txt
+    
+## Additional Information
+   
+There is no perfect predictor to rank players based off of stats, however, I determined that OPS is the best statistic to rank 
+players solely based on hitting. 
+
